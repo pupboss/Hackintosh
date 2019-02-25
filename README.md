@@ -15,7 +15,7 @@
 
 ### v0.2.0
 
-Fixed USB detection issue.
+Fixed USB detection issue and sound is also available.
 
 It is totally the same as the [clover](https://github.com/RockJesus/Alienware-17-R4-Dual-GPU-MacOS-Mojave-10.14-Hackintosh/tree/master/CLOVER-hd630%2Bnv1060) shared by RockJesus. Additionally, I removed the `-v` argument and replaced the default theme.
 
