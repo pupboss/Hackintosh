@@ -13,6 +13,12 @@
 
 ## Update history
 
+### v0.2.0
+
+Fixed USB detection issue.
+
+It is totally the same as the [clover](https://github.com/RockJesus/Alienware-17-R4-Dual-GPU-MacOS-Mojave-10.14-Hackintosh/tree/master/CLOVER-hd630%2Bnv1060) shared by RockJesus. Additionally, I removed the `-v` argument and replaced the default theme.
+
 ### v0.1.0
 
 This one is for macOS 10.13.6 High Sierra, currently there are some known issues.
@@ -33,3 +39,4 @@ This one is for macOS 10.13.6 High Sierra, currently there are some known issues
 2. https://github.com/RockJesus/Alienware-17-R4-I7-7700HQ-MacOS-High-Sierra
 3. https://blog.huihut.com/2018/10/13/GIGABYTE_Z370_HD3P_i7-8700K_GTX1080_Install_Hackintosh_HighSierra10.13.6/
 4. https://comsysto.github.io/Display-Override-PropertyList-File-Parser-and-Generator-with-HiDPI-Support-For-Scaled-Resolutions/
+5. https://github.com/RockJesus/Alienware-17-R4-Dual-GPU-MacOS-Mojave-10.14-Hackintosh
