@@ -26,3 +26,10 @@ This one is for macOS 10.13.6 High Sierra, currently there are some known issues
 4. For screen resolution issue, refer to this online tool: [SCALED RESOLUTIONS FOR YOUR MACBOOKS EXTERNAL MONITOR](https://comsysto.github.io/Display-Override-PropertyList-File-Parser-and-Generator-with-HiDPI-Support-For-Scaled-Resolutions/).
 
 5. If you failed to format the disk to APFS, choose HFS first then use the 'Edit -> Convert to APFS' option in the top menu.
+
+## References
+
+1. http://bbs.pcbeta.com/viewthread-1761528-1-1.html
+2. https://github.com/RockJesus/Alienware-17-R4-I7-7700HQ-MacOS-High-Sierra
+3. https://blog.huihut.com/2018/10/13/GIGABYTE_Z370_HD3P_i7-8700K_GTX1080_Install_Hackintosh_HighSierra10.13.6/
+4. https://comsysto.github.io/Display-Override-PropertyList-File-Parser-and-Generator-with-HiDPI-Support-For-Scaled-Resolutions/
