@@ -11,6 +11,13 @@
 - Intel HD630 / GTX 1080 Graphics
 - NVMe TOSHIBA 512 GB SSD + 1T HDD
 
+## Appearance
+
+![](images/boot-screen.jpg)
+![](images/about-this-mac.png)
+![](images/system-report.png)
+![](images/multi-screens.png)
+
 ## Update history
 
 ### v0.2.0
