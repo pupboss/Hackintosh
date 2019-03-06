@@ -1,7 +1,7 @@
-# Alienware-17-R4-i7-7820HK-Hackintosh (Dual Graphics)
+# Alienware 17 R4 i7-7820HK - Hackintosh (Dual Graphics)
 
 [![Platform](https://img.shields.io/badge/platform-macOS-red.svg)](https://developer.apple.com/macos)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](http://mit-license.org)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://mit-license.org)
 
 ## Specifications
 
@@ -13,10 +13,7 @@
 
 ## Appearance
 
-![](images/boot-screen.jpg)
-![](images/about-this-mac.png)
-![](images/system-report.png)
-![](images/multi-screens.png)
+You will find some sample images [here](screenshots).
 
 ## Update history
 
