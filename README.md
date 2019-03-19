@@ -17,6 +17,12 @@ You will find some sample images [here](screenshots).
 
 ## Update history
 
+### v0.2.1
+
+Set the default volume to Windows.
+
+Basically if you want to make it work on your computer, the only thing to do is to modify the value of `DefaultVolume`, on my computer the name of EFI volume is `ESP` but on yours it might be `EFI` or something else.
+
 ### v0.2.0
 
 Fixed USB detection issue and sound is also available.
