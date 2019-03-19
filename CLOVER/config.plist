@@ -410,8 +410,10 @@
 		<string>-f nvda_drv=1 keepsyms=1 debug=0x100 ngfxcompat=1 -no_compat_check</string>
 		<key>Debug</key>
 		<false/>
+		<key>DefaultLoader</key>
+		<string>bootmgfw.efi</string>
 		<key>DefaultVolume</key>
-		<string>APPLE</string>
+		<string>ESP</string>
 		<key>DisableCloverHotkeys</key>
 		<false/>
 		<key>HibernationFixup</key>
